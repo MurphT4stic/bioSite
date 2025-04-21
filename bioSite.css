@@ -44,6 +44,8 @@ body {
   box-sizing: border-box;
 }
 
+
+
   
   
   nav a {
@@ -90,9 +92,11 @@ body {
   align-items: center;
 }
 
+
+
 .image-container {
   flex: 1;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .text-content {
